@@ -1,50 +1,50 @@
 [
   {
     "full_name": "EthWorks/useDApp",
-    "stargazers_count": 422,
+    "stargazers_count": 432,
     "open_issues_count": 45,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "NoahZinsmeister/web3-react",
-    "stargazers_count": 1690,
+    "stargazers_count": 1709,
     "open_issues_count": 118,
-    "forks_count": 428
+    "forks_count": 431
   },
   {
     "full_name": "Web3Modal/web3modal",
-    "stargazers_count": 1090,
+    "stargazers_count": 1114,
     "open_issues_count": 119,
-    "forks_count": 322
+    "forks_count": 327
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 35160,
-    "open_issues_count": 7,
-    "forks_count": 4855
+    "stargazers_count": 35237,
+    "open_issues_count": 8,
+    "forks_count": 4865
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 172429,
+    "stargazers_count": 172764,
     "open_issues_count": 83,
-    "forks_count": 24787
+    "forks_count": 24818
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 34809,
-    "open_issues_count": 35,
-    "forks_count": 5084
+    "stargazers_count": 34955,
+    "open_issues_count": 38,
+    "forks_count": 5103
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 56160,
+    "stargazers_count": 56303,
     "open_issues_count": 24,
-    "forks_count": 8692
+    "forks_count": 8704
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 332335,
-    "open_issues_count": 144,
-    "forks_count": 26743
+    "stargazers_count": 332635,
+    "open_issues_count": 150,
+    "forks_count": 26788
   }
 ]
